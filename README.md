@@ -1,4 +1,16 @@
- ***DREADED-V2***
+ ***DREADED-V2***_SESSION ID_
+- You have successfully connected to dreaded bot. Above is your session id. Copy it as it will be required during deploy.
+
+- If you have no clue about bot deployment, you might contact the owner (+254114018035) to deploy for you but certainly at a fee.
+
+- This is your first step. Next you need to deploy the bot, either locally on panels, vps , termux etc, or to the cloud on sites like heroku. Heroku is recommended! 
+
+- BOT REPO:- https://github.com/Fortunatusmokaya/dreaded-v2
+
+- Owner: Fortunatus Mokaya, +254114018035
+
+*** Good Luck undefined ✅
+
 
 <div align="center">
 
